@@ -1,0 +1,25 @@
+{
+  "name": "learning-coach",
+  "version": "1.0.0",
+  "description": "Personal Learning Assistant that adapts to different learning styles",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "starter": "node starter.js",
+    "example:complete": "node examples/complete-example.js",
+    "example:visual": "node examples/visual-example.js",
+    "example:auditory": "node examples/auditory-example.js",
+    "example:kinesthetic": "node examples/kinesthetic-example.js",
+    "example:reading-writing": "node examples/reading-writing-example.js"
+  },
+  "keywords": [
+    "learning",
+    "education",
+    "adaptive",
+    "personalized"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
