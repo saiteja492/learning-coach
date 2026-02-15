@@ -1,0 +1,20 @@
+{
+  "name": "learning-coach",
+  "version": "1.0.0",
+  "description": "Personal Learning Assistant that adapts to different learning styles",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "learning",
+    "education",
+    "adaptive",
+    "personalized"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
