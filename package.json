@@ -5,7 +5,12 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "node tests/run-tests.js"
+    "starter": "node starter.js",
+    "example:complete": "node examples/complete-example.js",
+    "example:visual": "node examples/visual-example.js",
+    "example:auditory": "node examples/auditory-example.js",
+    "example:kinesthetic": "node examples/kinesthetic-example.js",
+    "example:reading-writing": "node examples/reading-writing-example.js"
   },
   "keywords": [
     "learning",
